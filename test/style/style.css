@@ -244,7 +244,7 @@ body,h1, h2, h3, p, ul {
 }
 
 .interaction-field {
-    top: 64vh;
+    top: 150px;
     left:calc(50% - 41vw/2);
     width: 41vw;
     padding-top: 74px;
